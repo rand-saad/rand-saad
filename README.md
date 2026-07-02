@@ -16,6 +16,8 @@
 
 ## 🧬 About Me
 
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding"/>
+
 ```python
 class RandAlrawi:
     def __init__(self):
@@ -78,8 +80,6 @@ class RandAlrawi:
 ## 🏅 Certificates
 
 - 🎨 Graphic Design & Visual Communication Training — Makers of Baghdad · Mar 2026
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 <!-- ===== CONNECT ===== -->
 <div align="center">
