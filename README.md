@@ -3,7 +3,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=159957&center=true&vCenter=true&width=650&lines=Bioinformatics+%2B+Machine+Learning+%2B+Web;Turning+biological+data+into+interactive+apps;Building+Sumbula+%F0%9F%8C%BE+for+Iraqi+farmers;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=159957&center=true&vCenter=true&width=650&lines=Bioinformatics+%2B+Machine+Learning+%2B+Web;Turning+biological+data+into+interactive+apps;Building+Sunbula+%F0%9F%8C%BE+for+Iraqi+farmers;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=rand-saad&color=159957&style=flat-square&label=Profile+Views" alt="views"/>
 <img src="https://img.shields.io/badge/Focus-Bioinformatics%20%26%20AI-159957?style=flat-square" alt="focus"/>
@@ -17,7 +17,7 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding"/>
 
-python
+```python
 class RandAlrawi:
     def __init__(self):
         self.name        = "Rand Saad Khalid"
@@ -25,16 +25,17 @@ class RandAlrawi:
         self.education   = "B.Sc. Bioinformatics @ UOITC (2027)"
         self.location    = "Baghdad, Iraq"
         self.focus       = ["Bioinformatics", "Machine Learning", "Web/App Dev"]
-        self.currently   = "Building Sumbula 🌾"
+        self.currently   = "Building Sunbula 🌾"
         self.languages   = ["Arabic", "English"]
 
     def say_hi(self):
         print("Thanks for visiting — let's build something great!")
+```
 
 - 🎓 Third-year Bioinformatics student at UOITC — College of Biomedical Informatics
-- 🔬 I combine bioinformatics, machine learning & web to build interactive platforms for biological data
-- 🌾 Currently building Sumbula (سنبلة) — an Arabic-first agricultural AI app for Iraqi farmers
-- ⚡ Fast learner · strong problem-solver · quick researcher · detail-oriented
+- 🔬 I combine bioinformatics, machine learning & web development to build interactive platforms for biological data
+- 🌾 Currently building **Sunbula (سنبلة)** — an Arabic-first, offline-capable agricultural AI app for Iraqi farmers, featuring on-device plant disease diagnosis and an Arabic agronomy assistant, "أبو سُنبلة"
+- ⚡ Fast learner · strong problem-solver · detail-oriented
 
 <br clear="right"/>
 
@@ -42,11 +43,14 @@ class RandAlrawi:
 
 <div align="center">
 
-!My Skills
-
-!R
-!Canva
-!Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
@@ -55,11 +59,11 @@ class RandAlrawi:
 <div align="center">
 
 | 🚀 Project | 📝 Description | 🧰 Stack |
-|-----------|---------------|---------|
-| 🌾 Sumbula (سنبلة) | Arabic-first agricultural AI app for Iraqi farmers — plant disease diagnosis, species ID & an Arabic agronomy chatbot ("أبو الزرع") | Flutter · Dart |
+|---|---|---|
+| 🌾 **Sunbula (سنبلة)** | Arabic-first agricultural AI app for Iraqi farmers — offline plant disease diagnosis, species ID & an Arabic agronomy assistant ("أبو سُنبلة") | Flutter · Dart · Gemma 3 (on-device) |
 | 🧬 Genetic Traits Predictor | AI-based prediction of a child's eye & hair color from parental genetics | Python · ML |
 | 🔗 Protein Interaction Networks | Exploring protein interaction networks with Cytoscape & MCODE | Cytoscape |
-| 🧠 Explainable AI for Medical Imaging | Medical image classification using segmentation-aware attention maps | Python · DL |
+| 🧠 Explainable AI for Medical Imaging | Medical image classification using segmentation-aware attention maps | Python · Deep Learning |
 | ⚗️ Molecular Docking Analysis | Docking studies with AutoDock Vina & Discovery Studio | AutoDock |
 
 </div>
@@ -74,7 +78,7 @@ class RandAlrawi:
 
 ## 🏅 Certificates
 
-- 🎨 Graphic Design & Visual Communication Training — Makers of Baghdad · Mar2026
+- 🎨 Graphic Design & Visual Communication Training — Makers of Baghdad · Mar 2026
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
@@ -83,9 +87,9 @@ class RandAlrawi:
 
 ### 📫 Let's Connect
 
-![LinkedIn](https://linkedin.com/in/rand-alrawi)
-![Email](mailto:rand.saad@uoitc.edu.iq)
-![GitHub](https://github.com/rand-saad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rand-alrawi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rand.saad@uoitc.edu.iq)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rand-saad)
 
 💚 Thanks for visiting — feel free to explore my repositories!
 
