@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🧬 Rand Saad Khalid
+# Rand Alrawi
 
-### Bioinformatics · Machine Learning · Web & App Developer
-
-*Turning biological data into interactive apps — building Sunbula 🌾 for Iraqi farmers*
+### Bioinformatics · DL&ML · Web & App Developer
 
 <img src="https://img.shields.io/badge/Profile%20Views-23-159957?style=flat-square" alt="views"/>
 <img src="https://img.shields.io/badge/Focus-Bioinformatics%20%26%20AI-159957?style=flat-square" alt="focus"/>
@@ -25,15 +23,15 @@ class RandAlrawi:
         self.role        = "Bioinformatics Web/App Developer"
         self.education   = "B.Sc. Bioinformatics @ UOITC (2027)"
         self.location    = "Baghdad, Iraq"
-        self.focus       = ["Bioinformatics", "Machine Learning", "Web/App Dev"]
-        self.currently   = "Building Sunbula 🌾"
-        self.languages   = ["Arabic", "English"]
+        self.focus       = ["Bioinformatics", "Machine Learning", "App Dev","data analysis]
+        self.currently   = "Building Sunbula at NURAI 🌾"
+        self.languages   = ["Arabic", "English", Turkish]
 
     def say_hi(self):
         print("Thanks for visiting — let's build something great!")
 ```
 
-- 🎓 Third-year Bioinformatics student at UOITC — College of Biomedical Informatics
+- 🎓 Fourth-year Bioinformatics student at UOITC — College of Biomedical Informatics
 - 🔬 I combine bioinformatics, machine learning & web development to build interactive platforms for biological data
 - 🌾 Currently building **Sunbula (سنبلة)** — an Arabic-first, offline-capable agricultural AI app for Iraqi farmers, featuring on-device plant disease diagnosis and an Arabic agronomy assistant, "أبو سُنبلة"
 - ⚡ Fast learner · strong problem-solver · detail-oriented
