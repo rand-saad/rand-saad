@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rand Alrawi
+# Rand alrawi
 
 ### Bioinformatics · DL&ML · Web & App Developer
 
