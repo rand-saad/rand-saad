@@ -4,9 +4,7 @@
 
 ### Bioinformatics · DL&ML · Web & App Developer
 
-<img src="https://img.shields.io/badge/Profile%20Views-23-159957?style=flat-square" alt="views"/>
-<img src="https://img.shields.io/badge/Focus-Bioinformatics%20%26%20AI-159957?style=flat-square" alt="focus"/>
-<img src="https://img.shields.io/badge/Based%20in-Baghdad%2C%20Iraq-155799?style=flat-square" alt="location"/>
+
 
 </div>
 
