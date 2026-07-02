@@ -1,17 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:159957,100:155799&height=220&section=header&text=Rand%20Saad%20Khalid&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Bioinformatics%20%C2%B7%20Machine%20Learning%20%C2%B7%20Web%20%26%20App%20Developer&descSize=20&descAlignY=56" alt="header"/>
-
-<!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=159957&center=true&vCenter=true&width=650&lines=Bioinformatics+%2B+Machine+Learning+%2B+Web;Turning+biological+data+into+interactive+apps;Building+Sunbula+%F0%9F%8C%BE+for+Iraqi+farmers;Always+learning%2C+always+building)](https://git.io/typing-svg)
+# 🧬 Rand Saad Khalid
 
-<img src="https://komarev.com/ghpvc/?username=rand-saad&color=159957&style=flat-square&label=Profile+Views" alt="views"/>
+### Bioinformatics · Machine Learning · Web & App Developer
+
+*Turning biological data into interactive apps — building Sunbula 🌾 for Iraqi farmers*
+
+<img src="https://img.shields.io/badge/Profile%20Views-23-159957?style=flat-square" alt="views"/>
 <img src="https://img.shields.io/badge/Focus-Bioinformatics%20%26%20AI-159957?style=flat-square" alt="focus"/>
 <img src="https://img.shields.io/badge/Based%20in-Baghdad%2C%20Iraq-155799?style=flat-square" alt="location"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+---
 
 ## 🧬 About Me
 
@@ -95,4 +96,4 @@ class RandAlrawi:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:155799,100:159957&height=120&section=footer"/>
+<sub>Made with 💚 in Baghdad, Iraq</sub>
