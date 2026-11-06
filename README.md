@@ -70,12 +70,14 @@ Sunbula is an Arabic-first, offline-capable agricultural AI application designed
 ## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### AI & Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -83,6 +85,7 @@ Sunbula is an Arabic-first, offline-capable agricultural AI application designed
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Web & Design
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -96,8 +99,6 @@ Sunbula is an Arabic-first, offline-capable agricultural AI application designed
 <img width="49%" src="https://github-readme-stats.shion.dev/api?username=rand-saad&show_icons=true&theme=transparent&hide_border=true&title_color=36C98F&icon_color=36C98F&text_color=AAAAAA"/>
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=rand-saad&theme=transparent&hide_border=true&ring=36C98F&fire=36C98F&currStreakLabel=36C98F"/>
-
-<img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rand-saad&layout=compact&theme=transparent&hide_border=true&title_color=36C98F&text_color=AAAAAA"/>
 
 </div>
 
